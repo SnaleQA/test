@@ -3,4 +3,4 @@ test-remote
 <h3>Ха-ха-ха</h3>
 Text for GitHub
 RRR
-<a style="font-color:green" target="_blank" href="site.ru"></a>
+<p target="_blank" href="site.ru"></a>
