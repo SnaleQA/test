@@ -1,6 +1,6 @@
 test-local
 test-remote
-<h2>Ха-ха-ха</h2>
+<p>Ха-ха-ха</p>
 Text for GitHub
 RRR
-<a target="_blank" href="site.ru"></a>
+<p target="_blank" href="site.ru"></a>
