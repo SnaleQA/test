@@ -1,5 +1,5 @@
 new-conflict-github5
-local-local
+local-github
 test-local-conflict3
 test-local-conflict2
 test-remote
