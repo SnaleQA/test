@@ -1,5 +1,5 @@
 new-conflict-github5
-local
+local-local
 test-local-conflict3
 test-local-conflict2
 test-remote
@@ -9,7 +9,7 @@ RRR
 <p target="_blank" href="site.ru"></a>
 local-line5
 remote-line
-old-conflict
+old-conflict7777777777777777777777
 <div class="local"></div>
 <div class="origin"></div>
 github
