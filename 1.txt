@@ -7,7 +7,7 @@ test-remote
 Text for GitHub
 RRR
 <p target="_blank" href="site.ru"></a>
-local-line
+local-line5
 remote-line
 old-conflict
 <div class="local"></div>
