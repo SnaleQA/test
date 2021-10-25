@@ -1,3 +1,4 @@
+new-conflict
 test-local-conflict3
 test-local-conflict2
 test-remote
