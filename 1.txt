@@ -1,4 +1,5 @@
 test-local-conflict3
+test-local-conflict2
 test-remote
 <h3>Ха-ха-ха</h3>
 Text for GitHub
