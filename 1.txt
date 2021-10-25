@@ -7,7 +7,7 @@ RRR
 <p target="_blank" href="site.ru"></a>
 local-line
 remote-line
-
+old-conflict
 <div class="local"></div>
 <div class="origin"></div>
 
