@@ -1,4 +1,4 @@
-new-conflict-github2
+new-conflict-github5
 local
 test-local-conflict3
 test-local-conflict2
