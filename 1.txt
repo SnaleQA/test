@@ -7,3 +7,7 @@ RRR
 <p target="_blank" href="site.ru"></a>
 local-line
 remote-line
+
+
+
+<div class="local"></div>
